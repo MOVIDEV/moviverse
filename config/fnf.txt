@@ -1,0 +1,12 @@
+return [
+'tiers' => [
+1 => [
+'name' => 'Silver',
+'months' => 2,
+'igs_per_month' => 3,
+'total_uploads' => 6,
+'allow_video' => false,
+'allow_event' => false,
+],
+],
+];
